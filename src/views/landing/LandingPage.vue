@@ -2,7 +2,7 @@
     <div class="dashboard-button">
         <router-link :to="'/dashboard'">
             <v-btn style="background-color: #69C0F7">
-                Dashboard
+                Dashboard Button
             </v-btn>
         </router-link>
     </div>
